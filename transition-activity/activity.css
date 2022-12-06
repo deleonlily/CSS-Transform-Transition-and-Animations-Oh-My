@@ -1,1 +1,9 @@
+.transform {
+    transition-duration: 2s;
+}
 
+.transform:hover {
+    bockground-color:cornflowerblue;
+    color: ghostwhite;
+}
+    
